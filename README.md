@@ -4,7 +4,10 @@ A minimal, open-source Android app for car stereo head units that automatically 
 
 No internet permission. No data collection. No analytics. 6 permissions total.
 
-
+<img width="200" height="376" alt="Screenshot 2026-05-23 044545" src="https://github.com/user-attachments/assets/096b54d2-7df5-40d5-88e6-8e3becce8c06" />
+<img width="200" height="376" alt="Screenshot_2026-05-23-04-37-27-430_com miui global packageinstaller" src="https://github.com/user-attachments/assets/6bee19d1-fd08-4309-b760-2e160d592c53" />
+<img width="200" height="376" alt="Screenshot_2026-05-23-04-38-23-208_com autostarter" src="https://github.com/user-attachments/assets/ecd315d5-b491-4c7d-9692-0db8f0273674" />
+<img width="200" height="376" alt="Screenshot_2026-05-23-04-38-30-278_com autostarter" src="https://github.com/user-attachments/assets/7b6f8b9a-ed0d-482d-b8c5-a99f15145013" />
 
 ## Is this safe?
 
